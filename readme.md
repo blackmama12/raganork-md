@@ -52,7 +52,7 @@ A lightweight WhatsApp bot framework with multi-session support and extensive co
 
 ```bash
 npm install -g yarn pm2
-git clone https://github.com/souravkl11/raganork-md.git
+git clone https://github.com/blackmama12/raganork-md.git
 cd raganork-md
 ````
 
@@ -155,3 +155,4 @@ GPL License - See LICENSE file for details.
 ---
 
 **Note:** Some files are obfuscated for security reasons and should not be modified.
+
